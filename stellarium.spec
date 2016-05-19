@@ -21,6 +21,7 @@ BuildRequires:	cmake(Qt5LinguistTools)
 BuildRequires:	gettext-devel
 Buildrequires:	cmake
 Buildrequires:	imagemagick
+Requires:       lib64qt5serialport5
 
 %description
 Stellarium renders 3D photo-realistic skies in real time. 
